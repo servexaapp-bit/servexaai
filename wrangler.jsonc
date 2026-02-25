@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "servexaai",
+	"upload_source_maps": true,
+	"observability": {
+		"enabled": true
+	},
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_name": "servexaai",
+			"database_id": "a3994a3c-4a4c-4216-ae3f-b294b0d6d7e6"
+		}
+	]
+}
